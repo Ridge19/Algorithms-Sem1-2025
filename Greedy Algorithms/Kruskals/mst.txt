@@ -1,0 +1,9 @@
+A B,4 H,8
+B A,4 H,11 C,8
+C B,8 I,2 F,4 D,7
+D C,7 F,14 E,9
+E D,9 F,10
+F E,10 D,14 C,4 G,2
+G F,2 I,6 H,1
+H A,8 B,11 I,7 G,1
+I C,2 G,6 H,7
