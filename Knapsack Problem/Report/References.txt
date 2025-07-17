@@ -1,0 +1,113 @@
+Analytics Vidhya, 2022. Knapsack Problem in Python. [online]
+Available at: https://www.analyticsvidhya.com/blog/2022/05/knapsack-problem-in-python/ [Accessed 23 May 2025].
+
+Batbat Senturk, M., n.d. Maze Wars: Which is the Best Maze Solving Algorithm? [online] Medium.
+Available at: https://medium.com/@batbat.senturk/maze-wars-which-is-the-best-maze-solving-algorithm-4102d3115191 [Accessed 23 May 2025].
+
+EnjoyAlgorithms, n.d. Zero-One Knapsack Problem. [online]
+Available at: https://www.enjoyalgorithms.com/blog/zero-one-knapsack-problem [Accessed 23 May 2025].
+
+FreeCodeCamp, n.d. Big-O Cheat Sheet – Time Complexity Chart. [online]
+Available at: https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/ [Accessed 23 May 2025].
+
+GeeksforGeeks, n.d. 0-1 Knapsack Problem | DP-10. [online]
+Available at: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/ [Accessed 23 May 2025].
+
+GeeksforGeeks, n.d. Python program for Dynamic Programming | Set 10 (0-1 Knapsack problem). [online]
+Available at: https://www.geeksforgeeks.org/python-program-for-dynamic-programming-set-10-0-1-knapsack-problem/ [Accessed 23 May 2025].
+
+GeeksforGeeks, n.d. Understanding Time Complexity with Simple Examples. [online]
+Available at: https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/ [Accessed 23 May 2025].
+
+Graphable, n.d. Pathfinding Algorithms. [online]
+Available at: https://www.graphable.ai/blog/pathfinding-algorithms/ [Accessed 23 May 2025].
+
+Luthfi Sauqi, 2021. Artificial Intelligence Search Problem: Solve Maze Using Breadth First Search (BFS) Algorithm. [online] Medium.
+Available at: https://medium.com/@luthfisauqi17_68455/artificial-intelligence-search-problem-solve-maze-using-breadth-first-search-bfs-algorithm-255139c6e1a3 [Accessed 23 May 2025].
+
+Matteo Tosato, n.d. Exploring the Depths: Solving Mazes with a Search Algorithm. [online] Medium.
+Available at: https://matteo-tosato7.medium.com/exploring-the-depths-solving-mazes-with-a-search-algorithm-c15253104899 [Accessed 23 May 2025].
+
+Medium, 2018. How I Used Algorithms to Solve the Knapsack Problem for My Real Life Carry-On Knapsack. [online]
+Available at: https://medium.com/free-code-camp/how-i-used-algorithms-to-solve-the-knapsack-problem-for-my-real-life-carry-on-knapsack-5f996b0e6895 [Accessed 23 May 2025].
+
+msgold, n.d. Using Python to Create and Solve Mazes. [online] Medium.
+Available at: https://medium.com/@msgold/using-python-to-create-and-solve-mazes-672285723c96 [Accessed 23 May 2025].
+
+Programiz Pro, n.d. DSA Complexity Factors. [online]
+Available at: https://programiz.pro/resources/dsa-complexity-factors/ [Accessed 23 May 2025].
+
+PseudoEditor, n.d. Online Pseudocode Editor. [online]
+Available at: https://pseudoeditor.com/app/ [Accessed 23 May 2025].
+
+PyTorch Forums, 2024. Need Advice for Solving Partially Observed Maze Environment. [online]
+Available at: https://discuss.pytorch.org/t/need-advice-for-solving-partially-observed-maze-environment/211992 [Accessed 23 May 2025].
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 2 Lecture Slides: Basic Data Structures and Algorithmic Analysis. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 2 Lab Materials. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 3 Lecture Slides: Algorithmic Analysis (Part 2). Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 3 Lab Materials. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 4 Lecture Slides: Brute Force. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 7 Lecture Slides: Divide and Conquer. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 8 Lecture Slides: Dynamic Programming. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 9 Lecture Slides: Greedy Techniques. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+RMIT University, 2025. COSC2123 Algorithms and Analysis - Week 10 Lecture Slides: Transform and Conquer. Melbourne: RMIT University.
+Authored by Elham Naghizade and Son Hoang Dau.
+
+ScienceDirect, n.d. Heuristic Search Techniques for Path Planning. [online]
+Available at: https://www.sciencedirect.com/science/article/pii/S1877050916311498 [Accessed 23 May 2025].
+
+SpringerLink, n.d. Probabilistic Heuristic Estimates. [online]
+Available at: https://link.springer.com/article/10.1007/BF01531007#:~:text=Probabilistic%20heuristic%20estimates%20represent%20a,decision%20making%20during%20problem%2Dsolving. [Accessed 23 May 2025].
+
+StackExchange, 2018. When to Add and When to Multiply to Find Time Complexity. [online] Computer Science Stack Exchange.
+Available at: https://cs.stackexchange.com/questions/100261/when-to-add-and-when-to-multiply-to-find-time-complexity [Accessed 23 May 2025].
+
+Stack Overflow, 2012. Python Dynamic Knapsack. [online]
+Available at: https://stackoverflow.com/questions/10166372/python-dynamic-knapsack [Accessed 23 May 2025].
+
+Stack Overflow, 2017. Non-Recursive 0-1 Knapsack Algorithm Using Breadth First Search. [online]
+Available at: https://stackoverflow.com/questions/41911647/non-recursive-0-1-knapsack-algorithm-using-breadth-first-search [Accessed 23 May 2025].
+
+Stack Overflow, n.d. Understanding a Heuristic for Single Goal Maze. [online]
+Available at: https://stackoverflow.com/questions/28666629/understanding-a-heuristics-for-single-goal-maze [Accessed 23 May 2025].
+
+Stanford, n.d. Heuristics in Pathfinding. [online]
+Available at: https://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html [Accessed 23 May 2025].
+
+SQLPad, n.d. Python Maze Solver Tutorial. [online]
+Available at: https://sqlpad.io/tutorial/python-maze-solver/ [Accessed 23 May 2025].
+
+Terh, F., 2021. How to Solve the Knapsack Problem with Dynamic Programming. [online] Medium.
+Available at: https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf [Accessed 23 May 2025].
+
+Terh, F., 2021. Optimizing the Knapsack Problem: Dynamic Programming Solution for Space Complexity. [online] Medium.
+Available at: https://medium.com/@fabianterh/optimizing-the-knapsack-problem-dynamic-programming-solution-for-space-complexity-c6bcdff3870b [Accessed 23 May 2025].
+
+Tharayil, A., n.d. 0-1 Knapsack Problem - Day 41 - Python. [online] Medium.
+Available at: https://atharayil.medium.com/0-1-knapsack-problem-day-41-python-5354c6c5fabb [Accessed 23 May 2025].
+
+Vidhya, A., 2020. Knapsack Problem. [online] Medium.
+Available at: https://medium.com/analytics-vidhya/knapsack-problem-7f05d0900db8 [Accessed 23 May 2025].
+
+YouTube, 2021. Solve a Maze using BFS in Python. [video online]
+Available at: https://www.youtube.com/watch?v=4wgRlNqIKqM [Accessed 23 May 2025].
+
+YouTube, 2021. Time Complexity Analysis of the Knapsack Problem | Dynamic Programming. [video online]
+Available at: https://www.youtube.com/watch?v=3HvNWyog1UQ [Accessed 23 May 2025].
